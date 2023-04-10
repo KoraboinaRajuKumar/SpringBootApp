@@ -10,6 +10,7 @@ public class RestApi {
 	public String msg() {
 
 		return "hello springboot docker app";
+		
 	}
 
 }
